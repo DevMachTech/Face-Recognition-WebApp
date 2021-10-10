@@ -6,7 +6,7 @@
 
 A link to my website to learn more about me
 
-<a href="https://devmachtech.github.io/akinyigaobadamilareportfolio/#/experience" target="_blank"><img src="/web.PNG" alt="my wesite"></a>
+<a href="https://devmachtech.github.io/akinyigaobadamilareportfolio/#/experience" target="_blank"><img src="https://github.com/DevMachTech/Face-Recognition-WebApp/blob/master/web.PNG" alt="my wesite"></a>
 
 ## Getting Started in 10 Minutes
 
